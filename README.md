@@ -9,7 +9,7 @@
 
 ##   GitHub Stats
 
-[![aufarijaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aufarijaal&show_icons=true&theme=algolia)](https://github.com/anuraghazare/github-readme-stats?theme=algolia)
+[![aufarijaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aufarijaal&show_icons=true&theme=onedark&hide_border=true)](https://github-readme-stats.vercel.app/api?username=aufarijaal&show_icons=true&theme=onedark&hide_border=true)
 
 ## How to reach me
 
